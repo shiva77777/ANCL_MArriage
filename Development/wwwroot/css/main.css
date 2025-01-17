@@ -1,0 +1,272 @@
+﻿/*body
+{
+    margin: 0; 
+    font-family: Verdana;
+    font-size: 12px;
+    color: #666;
+}
+
+a
+{
+    color: #3b5998;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.Panel
+{
+    background-color: #fff;
+    border: 1px solid #4CAEE3;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+    padding: 20px 20px 20px 20px;
+    behavior: url(/PIE/PIE.htc);
+}
+
+Panel
+{
+    border: 1px solid #4682B4;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.25);
+     behavior: url(/PIE/PIE.htc);
+}
+
+
+.PanelHeader
+{
+    font-weight: 700;
+    color: #666;
+    float: left;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    opacity: .9;
+}
+
+.PageTitle
+{
+    font-weight: 900;
+    color: #666;
+    float: left;
+    width: auto;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    opacity: .9;
+    font-family: Verdana;
+}
+
+.TextBox
+{
+    color : #666;
+    border: 1px solid #376091;
+    border-radius: 1px;
+    background-color: #fff;
+    box-shadow: none;
+    height: 30px;
+    width: 212px;
+    padding: 0px 8px 0px 8px;
+    margin-bottom: 5px;
+    font-family: Verdana;
+}
+
+.DropDown
+{
+    color: #666;
+    border: 1px solid #376091;
+    border-radius: 1px;
+    background-color: #fff;
+    box-shadow: none;
+    height: 32px;
+    width: 230px; 
+    padding: 0px 8px 0px 8px;
+    margin-bottom: 5px;
+    font-family: Verdana;
+    margin-right: 5px;
+}
+
+.CheckBox
+{
+    border: 0;
+    display: inline-block;
+    background: transparent;
+}
+
+.Radio
+{
+    border: 1px solid #376091;
+    display: inline-block;
+}
+
+.Button
+{
+    background-color: #376091;
+    color: #f7f7f7;
+    border: 1px solid #4db1a7;
+    border-radius: 3px;
+    height: 30px;
+    width: 90px;
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 11px;
+   
+}
+
+.Button:hover
+{
+    cursor: pointer;
+    background-color: #185475;
+    color: #f7f7f7;
+}
+
+.MyCalendar .ajax__calendar_container
+{
+    border: 1px solid #376091;
+    background-color: #f9f9f9;
+    color: #4db1a7;
+    margin-top: 7px;
+    border-radius: 5px;
+    
+    z-index : 1000 ;
+    position:relative;
+    overflow:hidden;
+}
+
+.Grid
+{
+    font-size: 11px;
+    border: solid 1px Grey;
+    border-radius: 5px;
+    font-family: Verdana;
+     behavior: url(../PIE/PIE.htc);
+}
+
+.Grid a
+{
+    color: #4db1a7;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.Grid a:hover
+{
+    text-decoration: underline;
+}
+
+.Grid td
+{
+    padding: 6px;
+    height: 6px;
+    border: solid 1px #f7f7f7;
+}
+
+.Grid th
+{
+    padding: 6px;
+    background-color: #428BCA;
+    height: 18px;
+    color: #f7f7f7;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Grid .GridFooter
+{
+    padding: 6px;
+    background-color: #428BCA;
+    height: 14px;
+    color: #f7f7f7;
+    text-align: right;
+    font-weight: bold;
+}
+
+.Grid .GridFooter:hover
+{
+    background-color: #428BCA;
+    color: #fff;
+}
+
+.Grid tr:hover
+{
+    background-color: #E0E0E0;
+}
+
+.Grid .GrdAltRow
+{
+    background-color: #f7f7f7;
+}
+
+.Grid .GrdRow
+{
+    background-color: #fff;
+}
+
+.Popup
+{
+    display: inline-block;
+    background-color: #F0F3F4;
+    border: 2px solid #094791; 
+    -moz-box-shadow: 3px 3px 4px #444;
+    -webkit-box-shadow: 3px 3px 4px #444;
+    box-shadow: 3px 3px 4px #444;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444')";
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444');
+}
+
+.LinkButton a:active
+{
+    color: blue;
+}
+
+.LinkButton a:link
+{
+    text-decoration: none;
+}
+
+.LinkButton a:visited
+{
+    text-decoration: none;
+}
+
+.LinkButton a:hover
+{
+    text-decoration: underline;
+}
+
+.LinkButton a:active
+{
+    text-decoration: underline;
+}
+
+.boxHead
+{
+    border-left: 1px #3b5998;
+    border-top: 1px #3b5998;
+    border-right: 1px #3b5998;
+    border-bottom: 1px #3b5998;
+    font-family: Verdana;
+    
+    color: #666;
+    font-size: 13px;
+    height: 25px;
+    padding-top: 6px;
+    padding-left: 10px;
+    text-align: left;
+}*/
+
+.MyCalendar .ajax__calendar_container
+{
+    border: 1px solid #376091;
+    background-color: #f9f9f9;
+    color: #4db1a7;
+    margin-top: 7px;
+    border-radius: 5px;
+    
+    z-index : 1000 ;
+    position:relative;
+    overflow:hidden;
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|d:\\ascentech\\ascentech internal project\\ancl_cloud\\ancl_marriage_mvc\\development\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:repositories\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\controllers\\testformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:controllers\\testformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\views\\testform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:views\\testform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{592D66F7-58E5-44F2-B0F1-646971537E16}|ANCL_Marriage_MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\TestForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TestForm\\Index.cshtml",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\TestForm\\Index.cshtml",
+              "RelativeToolTip": "Views\\TestForm\\Index.cshtml",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAAANkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T10:15:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:59:39.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:55:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:55:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestFormController.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\TestFormController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestFormController.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\TestFormController.cs",
+              "RelativeToolTip": "Controllers\\TestFormController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:53:56.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAB4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:16:46.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:11:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAPQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:10:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:10:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:03:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T05:48:46.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

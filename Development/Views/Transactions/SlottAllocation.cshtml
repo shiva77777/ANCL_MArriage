@@ -1,0 +1,186 @@
+﻿@model ANCL_Marriage_MVC.Models.FormEntry
+
+@{
+    ViewBag.Title = "SlottAllocation";
+    Layout = "_MasterLayout";
+}
+<style type="text/css">
+    .style7 {
+        width: 100%;
+    }
+
+    .style10 {
+        width: 65px;
+        height: 29px;
+    }
+
+    .style11 {
+        width: 14px;
+        height: 29px;
+    }
+
+    .style12 {
+        height: 29px;
+        width: 354px;
+    }
+</style>
+<div class="wrapper wrapper-content animated fadeInRight">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="ibox float-e-margins">
+                <div class="ibox-title">
+                    <h5>
+                        वेळ निर्धारित करणे
+                    </h5>
+                </div>
+                <div class="ibox-content">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div class="nav-tabs-custom">
+                                <div class="tab-content">
+                                    <form method="post" class="form-horizontal" action="">
+                                        <div class="active tab-pane">
+                                            <div class="form-horizontal">
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            फॉर्म क्र :
+                                                        </label>
+                                                        <div class="col-md-2">
+                                                            <input asp-for="FormId" class="form-control" Width="200px" CssClass="form-control">
+
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <button type="submit" class="btn btn-primary login_btn mb-3" asp-controller="Transactions" asp-action="SearchbyFormno">
+                                                                <i class="bi bi-check-circle"></i> शोधा
+                                                            </button>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            प्रभाग क्र :
+                                                        </label>
+                                                        <div class="col-md-2">
+                                                            <select asp-for="CollCenterId" class="form-control">
+                                                                <option value="">Select</option>
+                                                                @if (ViewBag.Ward != null)
+                                                                {
+                                                                    @foreach (var item in ViewBag.Ward)
+                                                                    {
+                                                                        <option value="@item.Id">@item.Name</option>
+                                                                    }
+                                                                }
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            अर्जदाराचे नांव :
+                                                        </label>
+                                                        <div class="col-md-2">
+                                                            <input asp-for="AppName" class="form-control" Width="350px" CssClass="form-control">
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            दूरध्वनी क्र :
+                                                        </label>
+                                                        <div class="col-md-4">
+
+                                                            <input asp-for="PhoneNo" class="form-control" Width="200px" CssClass="form-control">
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            पत्ता :
+                                                        </label>
+                                                        <div class="col-md-4">
+                                                            <textarea asp-for="Adddress" class="form-control" Width="200px" Height="60px" CssClass="form-control"></textarea>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            निर्धारित दिनांक :
+                                                        </label>
+                                                        <div class="col-md-2">
+                                                            @*  <uc1:Date ID="DtAllocationDate" runat="server" /> *@
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="form-group">
+                                                    <div class="col-md">
+                                                        <label class="col-sm-3 control-label">
+                                                            नोंदणी प्रकार :
+                                                        </label>
+                                                        <div class="col-md-2">
+                                                            <input asp-for="RegType" type="radio" name="RegType" value="1" checked class="mr-2" />
+                                                            <label for="Online">Online</label>
+                                                            <input type="radio" id="Renewal" name="RegType" value="2" class="mr-2" />
+                                                            <label for="Offline">Offline</label>
+                                                          
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <hr />
+                                                <div class="form-group" align="center">
+                                                    <div class="col-md-8" style="width: 800px" align="center">
+                                                        @*  <asp:GridView ID="GrdUserLevel" runat="server" CssClass="table table-striped table-bordered table-hover dataTables3-example"
+                                                        Width="100%" AutoGenerateColumns="False" AutoPostBack="true">
+                                                        <RowStyle CssClass="GrdRow"></RowStyle>
+                                                        <Columns>
+                                                        <asp:TemplateField HeaderText="निवडा">
+                                                        <ItemTemplate>
+                                                        <asp:CheckBox ID="ChkSlot" runat="server" />
+                                                        </ItemTemplate>
+                                                        <HeaderStyle Width="40px" />
+                                                        </asp:TemplateField>
+                                                        <asp:BoundField DataField="Slot" HeaderText="वेळ (टप्पा )">
+                                                        <ItemStyle HorizontalAlign="Left" />
+                                                        </asp:BoundField>
+                                                        <asp:BoundField DataField="time" HeaderText="वेळ" />
+                                                        </Columns>
+                                                        </asp:GridView> *@
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <div class="col-sm-4 col-sm-offset-5">
+                                                    @*  <asp:UpdatePanel ID="UpdatePanel2" runat="server" UpdateMode="conditional">
+                                                    <Triggers>
+                                                    <asp:PostBackTrigger ControlID="BtnSubmit" />
+                                                    <asp:PostBackTrigger ControlID="BtnBack" />
+                                                    </Triggers>
+                                                    <ContentTemplate>
+                                                    <asp:Button ID="BtnSubmit" CssClass="btn btn-primary" runat="server" Text="जमा करा"
+                                                    ValidationGroup="A" Style="margin-top: 15px;" OnClick="BtnSubmit_Click" />
+                                                    <asp:Button ID="BtnBack" runat="server" Style="margin-top: 15px;" Text="बदल"
+                                                    CssClass="btn btn-primary" onclick="BtnBack_Click" />
+                                                    </ContentTemplate>
+                                                    </asp:UpdatePanel> *@
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

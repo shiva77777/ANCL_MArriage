@@ -1,0 +1,252 @@
+﻿@* @model ANCL_Fire_MVC.Models.LoginResponse *@
+@* @model ANCL_Fire_MVC.Models.LayoutViewModel *@
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var serializedViewModel = HttpContextAccessor.HttpContext?.Session.GetString("viewModel");
+    var viewModel = !string.IsNullOrEmpty(serializedViewModel)
+        ? System.Text.Json.JsonSerializer.Deserialize<ANCL_Marriage_MVC.Models.LayoutViewModel>(serializedViewModel)
+        : null;
+}
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="shortcut icon" type="image/x-icon" href="../Images/favicon.ico" />
+    <title runat="server" id="HeaderText"></title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="../css/animate.css" rel="stylesheet" />
+    <link href="../css/style.css" rel="stylesheet" />
+    <link href="../css/menu.css" rel="stylesheet" />
+    @*    <%--
+    <script src="../Scripts/jquery-1.4.1.js" type="text/javascript"></script>--%> *@
+    <script src="../Scripts/jquery-3.6.0.js"></script>
+    <script src="../Scripts/bootstrap.min.js" type="text/javascript"></script>
+    <style type="text/css">
+        .top {
+            background-color: #00978A;
+            height: 75px;
+            width: 100%;
+            z-index: 904;
+            position: fixed;
+            box-shadow: 2px 0 3px rgba(0,0,0,.5);
+            min-width: 320px;
+        }
+
+        .contactmain {
+            position: fixed;
+            z-index: 1001;
+            top: 0px;
+            left: 0px;
+            vertical-align: central;
+            text-align: center;
+            width: 95%;
+            height: 410px;
+            opacity: 0.7;
+            filter: alpha(opacity=70);
+            background-image: none;
+            background-repeat: no-repeat;
+            display: block;
+            margin-top: 70px;
+            margin-left: 40px;
+            padding: 200px 0 0 0;
+        }
+
+        body {
+            color: Black !important;
+        }
+
+        .SetHeaderOnTop {
+            position: fixed;
+            background: rebeccapurple;
+            width: 100%;
+            top: 0;
+            z-index: 999;
+            scroll-behavior: smooth;
+            -webkit-transition: all 2s;
+            -moz-transition: all 2s;
+            -ms-transition: all 2s;
+            -o-transition: all 2s;
+            transition: all 2s;
+        }
+
+        .ResetHeaderOnPosition {
+            -webkit-transition: all 2s;
+            -moz-transition: all 2s;
+            -ms-transition: all 2s;
+            -o-transition: all 2s;
+            transition: all 2s;
+        }
+
+        body {
+            font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: whitesmoke;
+            font-size: 13px;
+            color: #676a6c;
+            overflow-x: hidden;
+        }
+
+        .navbar {
+            margin-bottom: 0;
+            background-color: #0830cb;
+        }
+
+    </style>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <script type="text/javascript">
+
+        // $(document).ready(function () {
+        //     $("input").attr("autocomplete", "off");
+        //     $(".Logoutcss a").click(function () {
+        //         javascript: __doPostBack('<%= btnSave.UniqueID %>', '')
+        //     });
+        // });
+
+
+
+    </script>
+    @* <form id="form1" runat="server"> *@
+    @* <asp:ScriptManager ID="ScriptManager1" runat="server" AsyncPostBackTimeout="360000">
+    </asp:ScriptManager> *@
+    <div>
+        <div style="text-align: center; background-color: white; height: 120px; color: black;
+            font-family: 'open sans','Helvetica Neue',Helvetica,Arial,sans-serif !important;">
+            <div class="col-xs-2 header-logo">
+                <a href="../Home/Index">
+                    <img src=@viewModel.logoUrl alt="" class="img-responsive logo" style="max-height: 95px;
+                        min-height: 80px; min-width: 80px; margin-top: 12px;" />
+
+                </a>
+            </div>
+            <div class="col-xs-6 ">
+                <h1 style="margin-top: 0px !important; padding-top: 20px;">
+                    <label Style="font-weight: bold;">@viewModel.LoginResponse.corporation</label>
+
+                </h1>
+                <span>
+                    Marriage DEPARTMENT
+                </span>
+                <br />
+                <label style="font-size:17px; font-weight:550"> (Version 1.2) </label>
+                <br />
+
+            </div>
+            <div class="col-xs-4">
+                <div class="welcome" style="font-size: 13px; font-family: Verdana; text-align: right">
+                    <br />
+                    Welcome
+
+                    <span>@viewModel.LoginResponse.userName</span>
+                    <br />
+                    <br />
+                    <span>Last Login :</span>
+
+                    <span>@viewModel.LoginResponse.lastLogin</span>
+                    <br />
+                    <span>Last Logout :</span>
+                    <span>@viewModel.LoginResponse.lastLogOut</span>
+                    <br />
+
+                </div>
+            </div>
+        </div>
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="fa fa-navicon"></span>
+                        </button>
+                    </div>
+                    <div class="nav-collapse navbar-responsive-collapse">
+                        @* <asp:Literal runat="server" ID="lit"></asp:Literal> *@
+                        @*  <ul class="nav">
+                        <li class="active">Home </li>
+                        </ul> *@
+                        <ul class="nav">
+                            <li class='dropdown'><a href='/Home/Index'><span class=''><img src='../Images/HomeIconFinal.png' style='width: 22px;height: 22px;padding-bottom: 2px;' /></span> &nbsp;Home</a></li>
+                            @foreach (var menu in viewModel.Menus.Where(m => m.ParentId == 0))
+                            {
+                                <li class="dropdown">
+                                    @if (@menu.MenuTitle == "Logout")
+                                    {
+                                        <a href="/Home/Logout">@menu.MenuTitle</a>
+                                    }
+                                    else
+                                    {
+                                        <a href="@menu.PagePath">@menu.MenuTitle</a>
+                                    }
+                                    @if (viewModel.Menus.Any(sm => sm.ParentId == menu.MenuId))
+                                    {
+                                        <ul class="dropdown-menu">
+                                            @foreach (var subMenu in viewModel.Menus.Where(sm => sm.ParentId == menu.MenuId))
+                                            {
+                                                <li>
+                                                    <a href="@subMenu.PagePath" class="page-scroll">&nbsp;@subMenu.MenuTitle</a>
+                                                </li>
+                                            }
+                                        </ul>
+                                    }
+                                </li>
+                            }
+                        </ul>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="gray-bg" style="min-height: 657px;">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+    </div>
+    @* </form> *@
+    <script>
+        toastr.options = {
+            "closeButton": true,
+            "debug": false,
+            "newestOnTop": true,
+            "progressBar": true,
+            "positionClass": "toast-middle-center", // Custom position
+            "preventDuplicates": true,
+            "onclick": null,
+            "showDuration": "300",
+            "hideDuration": "1000",
+            "timeOut": "5000",
+            "extendedTimeOut": "1000",
+            "showEasing": "swing",
+            "hideEasing": "linear",
+            "showMethod": "fadeIn",
+            "hideMethod": "fadeOut"
+        };
+    </script>
+    <script>
+        $(document).ready(function () {
+            // Check for success message
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <text>toastr.success('@TempData["SuccessMessage"]'); </text>
+        }
+
+                // Check for error message
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <text>toastr.error('@TempData["ErrorMessage"]'); </text>
+        }
+                        });
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

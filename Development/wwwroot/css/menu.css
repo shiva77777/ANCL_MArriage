@@ -1,0 +1,472 @@
+﻿.nav
+{
+    margin-bottom: 0;
+    width: auto; /*position:absolute;*/
+}
+
+.nav li a
+{
+    margin: 0;
+    padding: 0 10px;
+    border-radius: 0;
+    line-height: 40px;
+    color: #999;
+    display: block;
+    transition: all linear 0.25s;
+    -ms-transition: all linear 0.25s;
+    -moz-transition: all linear 0.25s;
+    -webkit-transition: all linear 0.25s;
+    -o-transition: all linear 0.25s;
+}
+
+.nav li a:hover, .header .nav li.active a, .header .nav li.active a:hover
+{
+    background: #0CC;
+    color: #FFF;
+}
+
+.navbar-cont
+{
+    margin: -1px 0;
+    background: #333;
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #0830cb;
+}
+
+.navbar-inner
+{
+    padding: 0;
+    background: none;
+    filter: none;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.navbar-inner .btn-navbar
+{
+    margin: 0 auto;
+    padding: 10px 0;
+    height: 20px;
+    background: #F9F9F9;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    font-family: Roboto Condensed, Arial, Helvetica, sans-serif;
+    color: #999;
+    text-shadow: none;
+    text-transform: uppercase;
+    float: none;
+    transition: all linear 0.25s;
+    -ms-transition: all linear 0.25s;
+    -moz-transition: all linear 0.25s;
+    -webkit-transition: all linear 0.25s;
+    -o-transition: all linear 0.25s;
+}
+
+.navbar-inner .btn-navbar i
+{
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    display: inline-block;
+}
+
+.navbar-inner .btn-navbar:hover
+{
+    color: #333;
+}
+
+.navbar-inner .btn-navbar:hover i
+{
+    opacity: 1;
+}
+
+.navbar-inner .nav
+{
+    margin: 0;
+    float: left;
+}
+
+.navbar-inner .nav li
+{
+    filter: none;
+    position: relative;
+    transition: all linear 0.1s;
+    -ms-transition: all linear 0.1s;
+    -moz-transition: all linear 0.1s;
+    -webkit-transition: all linear 0.1s;
+    -o-transition: all linear 0.1s;
+}
+
+.navbar-inner .nav li:hover
+{
+    background: #0CC;
+    filter: none;
+}
+
+.navbar-inner .nav li a
+{
+    margin-bottom: 0;
+    padding: 0 10px;
+    height: 40px;
+    border-radius: 0;
+    font: normal 14px/40px Roboto Condensed, Arial, Helvetica, sans-serif !important;
+    color: #FFF;
+    text-align: center;
+    text-shadow: none; /*text-transform: uppercase;*/
+    display: block;
+    float: left;
+    transition: padding linear 0.25s;
+    -ms-transition: padding linear 0.25s;
+    -moz-transition: padding linear 0.25s;
+    -webkit-transition: padding linear 0.25s;
+    -o-transition: padding linear 0.25s;
+}
+
+.navbar-inner .nav li a:hover
+{
+    color: #334b57;
+}
+
+.navbar-inner .nav li.active a, .navbar-inner .nav li.active a:hover
+{
+    background: #334b57;
+    border-radius: 0;
+    box-shadow: none;
+    color: #FFF;
+}
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle
+{
+    color: #FFF;
+    background-color: inherit;
+}
+
+.navbar-inner .nav li i
+{
+    margin-right: -20px;
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    color: #FFF;
+    text-align: center;
+    float: right;
+    transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    transition: all linear 0.25s;
+    -ms-transition: all linear 0.25s;
+    -moz-transition: all linear 0.25s;
+    -webkit-transition: all linear 0.25s;
+    -o-transition: all linear 0.25s;
+}
+
+.navbar-inner .nav li:hover i
+{
+    transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+}
+
+.navbar-inner .nav li.dropdown .dropdown-toggle:hover
+{
+    background: none;
+    box-shadow: none;
+}
+
+.navbar-inner .nav li.dropdown.active .dropdown-toggle
+{
+    background: #FC0;
+    color: #FFF;
+}
+
+.navbar-inner .nav li .dropdown-menu
+{
+    /*padding: 20px;     margin: 0;     width: 245px;*/     /*commented by AAA and added new values for same css properties -14Jan2020 */
+    padding: 20px 0px 20px 0px;
+    margin: 0;
+    width: 310px;
+    background: #334b57;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    list-style: none;
+    opacity: 0;
+    display: inherit;
+    position: absolute;
+    top: 30px;
+    left: -9999px;
+    float: none;
+    transition: top linear 0.25s, opacity linear 0.25s;
+    -ms-transition: top linear 0.25s, opacity linear 0.25s;
+    -moz-transition: top linear 0.25s, opacity linear 0.25s;
+    -webkit-transition: top linear 0.25s, opacity linear 0.25s;
+    -o-transition: top linear 0.25s, opacity linear 0.25s;
+}
+
+.navbar-inner .nav li:hover .dropdown-menu
+{
+    opacity: 1;
+    top: 40px;
+    left: 0;
+}
+
+.navbar-inner .nav li .dropdown-menu:before, .navbar-inner .nav li .dropdown-menu:after
+{
+    display: none;
+}
+
+.navbar-inner .nav li .dropdown-menu li a, .navbar-inner .nav li.active .dropdown-menu li a
+{
+    padding: 0;
+    height: 29px;
+    background: none;
+    filter: none; /* border-top: 1px dotted #E5E5E5;*/
+    font: normal 12px/29px Arial, Helvetica, sans-serif; /*color: #999;*/
+    color: #F7F7F7;
+    text-align: left;
+    text-transform: none;
+    float: none;
+}
+
+.navbar-inner .nav li .dropdown-menu li:first-child a, .navbar-inner .nav li.active .dropdown-menu li:first-child a
+{
+    height: 30px;
+    border-top: none;
+    line-height: 30px;
+}
+
+.navbar-inner .nav li .dropdown-menu li:hover
+{
+    background: none;
+    filter: none;
+}
+
+.navbar-inner .nav li .dropdown-menu li:hover a, .navbar-inner .nav li .dropdown-menu li.active a
+{
+    color: #0CC;
+}
+
+.nav-collapse.collapse
+{
+    height: auto !important;
+    overflow: visible !important;
+}
+
+.nav-collapse.collapse
+{
+    height: auto;
+    overflow: visible;
+}
+
+.collapse
+{
+    height: 0;
+    overflow: hidden;
+    position: relative;
+    transition: height 0.35s ease 0s;
+}
+
+*
+{
+    outline: medium none !important;
+}
+
+.container::before, .container::after
+{
+    content: "";
+    display: table;
+    line-height: 0;
+}
+
+.container::after
+{
+    clear: both;
+}
+
+.container::before, .container::after
+{
+    content: "";
+    display: table;
+    line-height: 0;
+}
+
+.navbar .container
+{
+    width: auto;
+}
+
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container
+{
+    width: 1170px;
+}
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container
+{
+    width: 940px;
+}
+
+*
+{
+    outline: medium none !important;
+}
+
+.navbar-inner::before, .navbar-inner::after
+{
+    content: "";
+    display: table;
+    line-height: 0;
+}
+
+.navbar-inner::after
+{
+    clear: both;
+}
+
+.navbar-inner::before, .navbar-inner::after
+{
+    content: "";
+    display: table;
+    line-height: 0;
+}
+
+.navbar-inner
+{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    box-shadow: none;
+    filter: none;
+    padding: 0;
+}
+
+.navbar-inner
+{
+    /*background-color: #fafafa;         background-image: linear-gradient(to bottom, #fff, #f2f2f2);*/
+    background-repeat: repeat-x; /*border: 1px solid #d4d4d4;*/
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+*
+{
+    outline: medium none !important;
+}
+
+.navbar-inner .nav
+{
+    float: left;
+    margin: 0;
+}
+
+.navbar .nav
+{
+    display: block;
+    float: left;
+    left: 0;
+    margin: 0 10px 0 0;
+    position: relative;
+}
+
+.nav
+{
+    list-style: outside none none;
+    margin-bottom: 20px;
+    margin-left: 0;
+}
+
+ul, ol
+{
+    margin: 0 0 10px 25px;
+    padding: 0;
+}
+
+
+.navbar-inner .nav li
+{
+    filter: none;
+    position: relative;
+    transition: all 0.1s linear 0s;
+}
+
+li
+{
+    line-height: 20px;
+}
+
+.navbar .nav > li
+{
+    float: left;
+    border-left: 2px solid green !important;
+}
+
+.dropup, .dropdown
+{
+    position: relative;
+}
+
+
+
+/*.ibox-content {
+            margin-top: 8% !important;
+        }*/
+
+@media (max-width: 990px)
+{
+    .navbar-header
+    {
+        float: none;
+    }
+
+    .navbar-toggle
+    {
+        display: block;
+    }
+
+    .nav-collapse
+    {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+
+    .nav-collapse.collapse
+    {
+        display: none !important;
+    }
+
+    .nav-collapse
+    {
+        float: none !important;
+        margin: 7.5px -15px;
+    }
+
+    nav-collapse > ul > li
+    {
+        float: none;
+    }
+
+    nav-collapse > ul > li > a
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}

@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ANCL_Marriage_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ANCL_Marriage_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\Calendar_scheduleHS.png",
+      "PackagePath": "staticwebassets\\Images\\Calendar_scheduleHS.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\Cel.png",
+      "PackagePath": "staticwebassets\\Images\\Cel.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\CorporationLogo_1.png",
+      "PackagePath": "staticwebassets\\Images\\CorporationLogo_1.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\CorporationLogo_1_rpt.png",
+      "PackagePath": "staticwebassets\\Images\\CorporationLogo_1_rpt.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\CorporationLogo_5.png",
+      "PackagePath": "staticwebassets\\Images\\CorporationLogo_5.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\CorporationLogo_5_rpt.png",
+      "PackagePath": "staticwebassets\\Images\\CorporationLogo_5_rpt.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\HomeIconFinal.png",
+      "PackagePath": "staticwebassets\\Images\\HomeIconFinal.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\LOGO.JPG",
+      "PackagePath": "staticwebassets\\Images\\LOGO.JPG"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\LOGO11.JPG",
+      "PackagePath": "staticwebassets\\Images\\LOGO11.JPG"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\MAMCLogo.JPG",
+      "PackagePath": "staticwebassets\\Images\\MAMCLogo.JPG"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\MAMC_inner_login_page_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\MAMC_inner_login_page_1.jpg"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\NagarKaryawaliLogo.png",
+      "PackagePath": "staticwebassets\\Images\\NagarKaryawaliLogo.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\PhotoNotAvailable.jpg",
+      "PackagePath": "staticwebassets\\Images\\PhotoNotAvailable.jpg"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\SMS-512.png",
+      "PackagePath": "staticwebassets\\Images\\SMS-512.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\Session Timeout.jpg",
+      "PackagePath": "staticwebassets\\Images\\Session Timeout.jpg"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\ascentech_logo_high_quality.png",
+      "PackagePath": "staticwebassets\\Images\\ascentech_logo_high_quality.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\button.png",
+      "PackagePath": "staticwebassets\\Images\\button.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\copy-icon.png",
+      "PackagePath": "staticwebassets\\Images\\copy-icon.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\defaultpreview.jpg",
+      "PackagePath": "staticwebassets\\Images\\defaultpreview.jpg"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\doc_checked.png",
+      "PackagePath": "staticwebassets\\Images\\doc_checked.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\exit_btn.png",
+      "PackagePath": "staticwebassets\\Images\\exit_btn.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\kbmc.png",
+      "PackagePath": "staticwebassets\\Images\\kbmc.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\light_noise_diagonal.png",
+      "PackagePath": "staticwebassets\\Images\\light_noise_diagonal.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\loader.gif",
+      "PackagePath": "staticwebassets\\Images\\loader.gif"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\loading1.gif",
+      "PackagePath": "staticwebassets\\Images\\loading1.gif"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\login_btn.png",
+      "PackagePath": "staticwebassets\\Images\\login_btn.png"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Images\\loginout.jpg",
+      "PackagePath": "staticwebassets\\Images\\loginout.jpg"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\inspinia.js",
+      "PackagePath": "staticwebassets\\Scripts\\inspinia.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-1.4.1-vsdoc.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-1.4.1-vsdoc.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-1.4.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-1.4.1.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-1.4.1.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-1.4.1.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-2.1.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-2.1.1.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-ui-1.10.4.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-ui-1.10.4.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\jquery-ui.custom.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-ui.custom.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\Scripts\\transliteration.I.js",
+      "PackagePath": "staticwebassets\\Scripts\\transliteration.I.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\cloud-admin.css",
+      "PackagePath": "staticwebassets\\css\\cloud-admin.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\popup.css",
+      "PackagePath": "staticwebassets\\css\\popup.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\transliteration.css",
+      "PackagePath": "staticwebassets\\css\\transliteration.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\css\\uniform.default.min.css",
+      "PackagePath": "staticwebassets\\css\\uniform.default.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASCENTech\\AscenTech Internal Project\\ANCL_Cloud\\ANCL_Marriage_MVC\\Development\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ANCL_Marriage_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ANCL_Marriage_MVC.props",
+      "PackagePath": "build\\ANCL_Marriage_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ANCL_Marriage_MVC.props",
+      "PackagePath": "buildMultiTargeting\\ANCL_Marriage_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ANCL_Marriage_MVC.props",
+      "PackagePath": "buildTransitive\\ANCL_Marriage_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

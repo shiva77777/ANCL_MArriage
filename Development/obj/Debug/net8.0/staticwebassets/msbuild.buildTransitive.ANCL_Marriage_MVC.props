@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ANCL_Marriage_MVC.props" />
+</Project>
